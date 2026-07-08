@@ -694,7 +694,7 @@ section {
   .topbar {
     height: 99px;
     min-height: 99px;
-    padding: 12px 0;
+    padding: 8px 0;
   }
 
   .nav {
@@ -738,7 +738,17 @@ section {
   }
 
   .phone {
-    display: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 14px;
+    font-size: 13px;
+    margin-left: auto;
+  }
+
+  .phone i {
+    font-size: 18px;
+    margin-right: 6px;
   }
 
   .hero-grid {
@@ -833,6 +843,7 @@ section {
   .topbar {
     height: 92px;
     min-height: 92px;
+    padding: 4px 0;
   }
 
   .nav {

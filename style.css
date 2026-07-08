@@ -692,17 +692,17 @@ section {
 ===================================================== */
 @media (max-width: 900px) {
   .topbar {
-    height: 90px;
-    min-height: 90px;
+    height: 99px;
+    min-height: 99px;
     padding: 12px 0;
   }
 
   .nav {
-    height: 90px;
+    height: 99px;
   }
 
   .brand img {
-    height: 82px !important;
+    height: 99px !important;
     max-width: 210px;
   }
 
@@ -831,16 +831,16 @@ section {
 ===================================================== */
 @media (max-width: 520px) {
   .topbar {
-    height: 82px;
-    min-height: 82px;
+    height: 92px;
+    min-height: 92px;
   }
 
   .nav {
-    height: 82px;
+    height: 92px;
   }
 
   .brand img {
-    height: 76px !important;
+    height: 83px !important;
     max-width: 190px;
   }
 

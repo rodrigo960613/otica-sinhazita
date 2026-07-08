@@ -1,25 +1,22 @@
 # Ótica Sinhazita
 
-Site institucional front-end para a Ótica Sinhazita.
+Site institucional desenvolvido para a Ótica Sinhazita.
 
-## Arquivos principais
+## Tecnologias
 
-- `index.html` — estrutura do site.
-- `style.css` — estilos organizados por seções.
-- `script.js` — menu mobile, carrossel e animações.
-- `assets/` — imagens e logos usadas no site.
+- HTML5
+- CSS3
+- JavaScript
 
-## Seções do site
+## Funcionalidades
 
-- Cabeçalho com menu e WhatsApp.
-- Hero com imagem principal e diferenciais.
-- Faixa de exame de vista grátis.
-- Produtos: Óculos de Grau e Óculos de Sol.
-- Sobre a Ótica Sinhazita.
-- Carrossel de avaliações.
-- Rodapé com contatos, redes sociais, horário e mapa.
+- Layout responsivo
+- Carrossel de avaliações
+- WhatsApp integrado
+- Google Maps
+- Animações suaves
+- Navegação por seções
 
-## Observação
+## Desenvolvido por
 
-Esta versão foi organizada e documentada sem alterar a proposta visual do projeto original.
-# otica-sinhazita
+Rodrigo Lemos Sá

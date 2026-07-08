@@ -22,3 +22,4 @@ Site institucional front-end para a Ótica Sinhazita.
 ## Observação
 
 Esta versão foi organizada e documentada sem alterar a proposta visual do projeto original.
+# otica-sinhazita
